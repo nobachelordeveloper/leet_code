@@ -8,8 +8,8 @@ Problems covered
 28. Find the Index of the First Occurence in a String
 151. Reverse Words in a String
 217. Contains Duplicate
+349. Intersection of Two Arrays
 
 Problems to Cover
-349. Intersection of Two Arrays
 724. Find Pivot Index
 
