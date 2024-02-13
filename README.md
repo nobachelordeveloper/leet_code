@@ -3,21 +3,24 @@
 Problems covered
 
 1. Two Sum
+20. Valid Parentheses
+21. Merge Two Sorted Lists
 26. Remove Duplicates from Sorted Array
 27. Remove Element
 28. Find the Index of the First Occurence in a String
 121. Best Time to Buy and Sell Stock
+125. Valid Palindrome
 151. Reverse Words in a String
 217. Contains Duplicate
 349. Intersection of Two Arrays
 724. Find Pivot Index
 
-Problems for Week 1 (02/10/2024): 11 left 2 done
+Problems for Week 1 (02/10/2024): 11 left 4 done
 <strike>1. Two Sum</strike>
-20. Valid Parentheses
-21. Merge Two Sorted Lists 
+<strike>20. Valid Parentheses</strike>
+<strike>21. Merge Two Sorted Lists</strike> 
 <strike>121. Best Time to Buy and Sell Stock</strike>
-125. Valid Palindrome
+<strike>125. Valid Palindrome</strike>
 226. Invert Binary Tree
 242. Valid Anagram
 704. Binary Search
@@ -45,8 +48,8 @@ Problems for Week 2 (02/17/2024)
 
 Problems to Cover
 Array
-1. Two Sum (Easy)
-121. Best Time to Buy and Sell Stock (Easy)
+<strike>1. Two Sum (Easy)</strike>
+<strike>121. Best Time to Buy and Sell Stock (Easy)</strike>
 <strike>217. Contains Duplicate (Easy)</strike>
 238. Product of Array Except Self (Medium)
 53. Maximum Subarray (Medium)
@@ -96,7 +99,7 @@ Interval
 Linked List
 206. Reverse Linked List (Easy)
 141. Linked List Cycle (Easy)
-21. Merge Two Sorted Lists (Easy)
+<strike>21. Merge Two Sorted Lists (Easy)</strike>
 23. Merge K Sorted Lists (Hard)
 19. Remove Nth Node from End of List (Medium)
 143. Reorder List (Medium)
@@ -113,8 +116,8 @@ String
 76. Minimum Window Substring (Hard)
 242. Valid Anagram (Easy)
 49. Group Anagrams (Medium)
-20. Valid Parentheses (Easy)
-125. Valid Palindrome (Easy)
+<strike>20. Valid Parentheses (Easy)</strike>
+<strike>125. Valid Palindrome (Easy)</strike>
 5. Longest Palindromic Substring (Medium)
 647. Palindromic Substrings (Medium)
 ** Encode and Decode Strings 
