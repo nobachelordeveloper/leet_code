@@ -1,0 +1,82 @@
+[
+  {
+      "index": 1,
+      "input": {
+          "string": "Mr John Smith    ",
+          "true_length": 13
+      },
+      "output": "Mr%20John%20Smith"
+  },
+  {
+      "index": 2,
+      "input": {
+          "string": "JohnDoe",
+          "true_length": 7
+      },
+      "output": "JohnDoe"
+  },
+  {
+      "index": 3,
+      "input": {
+          "string": "  LeadingSpace",
+          "true_length": 13
+      },
+      "output": "%20%20LeadingSpac"
+  },
+  {
+      "index": 4,
+      "input": {
+          "string": "Trailing    ",
+          "true_length": 11
+      },
+      "output": "Trailing%20%20%20"
+  },
+  {
+      "index": 5,
+      "input": {
+          "string": "     ",
+          "true_length": 5
+      },
+      "output": "%20%20%20%20%20"
+  },
+  {
+      "index": 6,
+      "input": {
+          "string": "",
+          "true_length": 0
+      },
+      "output": ""
+  },
+  {
+      "index": 7,
+      "input": {
+          "string": "a",
+          "true_length": 1
+      },
+      "output": "a"
+  },
+  {
+      "index": 8,
+      "input": {
+          "string": " ",
+          "true_length": 1
+      },
+      "output": "%20"
+  },
+  {
+      "index": 9,
+      "input": {
+          "string": "     ",
+          "true_length": 3
+      },
+      "output": "%20%20%20"
+  },
+  {
+      "index": 10,
+      "input": {
+          "string": "Mr@John!Smith    ",
+          "true_length": 14
+      },
+      "output": "Mr@John!Smith%20"
+  }
+]

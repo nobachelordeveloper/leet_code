@@ -1,0 +1,72 @@
+[
+  {
+      "index": 1,
+      "input": {
+          "s": ""
+      },
+      "output": true
+  },
+  {
+      "index": 2,
+      "input": {
+          "s": "a"
+      },
+      "output": true
+  },
+  {
+      "index": 3,
+      "input": {
+          "s": "ab"
+      },
+      "output": false
+  },
+  {
+      "index": 4,
+      "input": {
+          "s": "aa"
+      },
+      "output": true
+  },
+  {
+      "index": 5,
+      "input": {
+          "s": "Taco cat"
+      },
+      "output": true
+  },
+  {
+      "index": 6,
+      "input": {
+          "s": "a1b2c3"
+      },
+      "output": false
+  },
+  {
+      "index": 7,
+      "input": {
+          "s": "A man, a plan, a canal, Panama!"
+      },
+      "output": true
+  },
+  {
+      "index": 8,
+      "input": {
+          "s": "abccbaabccba"
+      },
+      "output": true
+  },
+  {
+      "index": 9,
+      "input": {
+          "s": "abbacddc"
+      },
+      "output": true
+  },
+  {
+      "index": 10,
+      "input": {
+          "s": "xxxxxx"
+      },
+      "output": true
+  }
+]

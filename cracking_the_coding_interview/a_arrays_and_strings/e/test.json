@@ -1,0 +1,82 @@
+[
+  {
+      "index": 1,
+      "input": {
+          "first": "test",
+          "second": "test"
+      },
+      "output": true
+  },
+  {
+      "index": 2,
+      "input": {
+          "first": "test",
+          "second": "best"
+      },
+      "output": false
+  },
+  {
+      "index": 3,
+      "input": {
+          "first": "test",
+          "second": "tests"
+      },
+      "output": true
+  },
+  {
+      "index": 4,
+      "input": {
+          "first": "test",
+          "second": "atest"
+      },
+      "output": true
+  },
+  {
+      "index": 5,
+      "input": {
+          "first": "testing",
+          "second": "testin"
+      },
+      "output": true
+  },
+  {
+      "index": 6,
+      "input": {
+          "first": "testing",
+          "second": "esting"
+      },
+      "output": true
+  },
+  {
+      "index": 7,
+      "input": {
+          "first": "test",
+          "second": "bests"
+      },
+      "output": false
+  },
+  {
+      "index": 8,
+      "input": {
+          "first": "test",
+          "second": "tosts"
+      },
+      "output": false
+  },
+  {
+      "index": 9,
+      "input": {
+          "first": "",
+          "second": ""
+      },
+      "output": true
+  },
+  {
+      "index": 10,
+      "input": {
+          "first": "",
+          "second": "a"
+      },
+      "output": true
+  }
+]
