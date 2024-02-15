@@ -1,0 +1,107 @@
+[
+  {
+    "index": 1,
+    "input": {
+      "first": "test",
+      "second": "test"
+    },
+    "output": true
+  },
+  {
+    "index": 2,
+    "input": {
+      "first": "test",
+      "second": "best"
+    },
+    "output": true
+  },
+  {
+    "index": 3,
+    "input": {
+      "first": "test",
+      "second": "tests"
+    },
+    "output": true
+  },
+  {
+    "index": 4,
+    "input": {
+      "first": "test",
+      "second": "atest"
+    },
+    "output": true
+  },
+  {
+    "index": 5,
+    "input": {
+      "first": "testing",
+      "second": "testin"
+    },
+    "output": true
+  },
+  {
+    "index": 6,
+    "input": {
+      "first": "testing",
+      "second": "esting"
+    },
+    "output": true
+  },
+  {
+    "index": 7,
+    "input": {
+      "first": "test",
+      "second": "bests"
+    },
+    "output": false
+  },
+  {
+    "index": 8,
+    "input": {
+      "first": "test",
+      "second": "tosts"
+    },
+    "output": false
+  },
+  {
+    "index": 9,
+    "input": {
+      "first": "",
+      "second": ""
+    },
+    "output": true
+  },
+  {
+    "index": 10,
+    "input": {
+      "first": "",
+      "second": "a"
+    },
+    "output": true
+  },
+  { "index": 1, "input": { "first": "baseb", "second": "basec" } },
+  { "index": 2, "input": { "first": "itemc", "second": "itemsc" } },
+  { "index": 3, "input": { "first": "thisd", "second": "thusi" } },
+  { "index": 4, "input": { "first": "samee", "second": "samee" } },
+  { "index": 5, "input": { "first": "basef", "second": "baseg" } },
+  { "index": 6, "input": { "first": "itemg", "second": "itemsg" } },
+  { "index": 7, "input": { "first": "thish", "second": "thusm" } },
+  { "index": 8, "input": { "first": "samei", "second": "samei" } },
+  { "index": 9, "input": { "first": "basej", "second": "basek" } },
+  { "index": 10, "input": { "first": "itemk", "second": "itemsk" } },
+  { "index": 11, "input": { "first": "thisl", "second": "thusq" } },
+  { "index": 12, "input": { "first": "samem", "second": "samem" } },
+  { "index": 13, "input": { "first": "basen", "second": "baseo" } },
+  { "index": 14, "input": { "first": "itemo", "second": "itemso" } },
+  { "index": 15, "input": { "first": "thisp", "second": "thusu" } },
+  { "index": 16, "input": { "first": "sameq", "second": "sameq" } },
+  { "index": 17, "input": { "first": "baser", "second": "bases" } },
+  { "index": 18, "input": { "first": "itemr", "second": "itemsr" } },
+  { "index": 19, "input": { "first": "thist", "second": "thusy" } },
+  { "index": 20, "input": { "first": "samer", "second": "samer" } },
+  { "index": 21, "input": { "first": "baset", "second": "baseu" } },
+  { "index": 22, "input": { "first": "items", "second": "itemss" } },
+  { "index": 23, "input": { "first": "thisu", "second": "thusa" } },
+  { "index": 24, "input": { "first": "sames", "second": "sames" } },
+  { "index": 25, "input": { "first": "baset", "second": "basev" } }
+]

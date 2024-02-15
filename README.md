@@ -12,6 +12,8 @@ Problems covered
 125. Valid Palindrome
 151. Reverse Words in a String
 217. Contains Duplicate
+226. Invert Binary Tree
+242. Valid Anagram
 349. Intersection of Two Arrays
 724. Find Pivot Index
 
@@ -21,8 +23,8 @@ Problems for Week 1 (02/10/2024): 11 left 4 done
 <strike>21. Merge Two Sorted Lists</strike> 
 <strike>121. Best Time to Buy and Sell Stock</strike>
 <strike>125. Valid Palindrome</strike>
-226. Invert Binary Tree
-242. Valid Anagram
+<strike>226. Invert Binary Tree</strike>
+<strike>242. Valid Anagram</strike>
 704. Binary Search
 733. Flood Fill
 235. Lowest Common Ancestor of a Binary Search Tree
@@ -114,7 +116,7 @@ String
 3. Longest Substring Without Repeating Characters (Medium)
 424. Longest Repeating Character Replacement (Medium)
 76. Minimum Window Substring (Hard)
-242. Valid Anagram (Easy)
+<strike>242. Valid Anagram (Easy)</strike>
 49. Group Anagrams (Medium)
 <strike>20. Valid Parentheses (Easy)</strike>
 <strike>125. Valid Palindrome (Easy)</strike>
