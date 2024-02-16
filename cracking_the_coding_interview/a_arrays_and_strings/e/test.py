@@ -21,6 +21,7 @@ test_FileName=rf"{CURRENT_DIRECTORY}{dir_to_book}{dir_to_chapter}{dir_to_problem
 
 f = open(dir_to_test_file)
 data = json.load(f)
+f.close()
 
 errors = []
 test = []
@@ -53,3 +54,5 @@ else:
     f = open(test_FileName, "w")
     f.write(json_object)
     f.close()
+    if(os.path.isfile(test_results_FileName)):
+        os.remove(test_results_FileName)

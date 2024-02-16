@@ -15,6 +15,7 @@ Problems covered
 226. Invert Binary Tree
 242. Valid Anagram
 349. Intersection of Two Arrays
+704. Binary Search
 724. Find Pivot Index
 
 Problems for Week 1 (02/10/2024): 11 left 4 done
@@ -25,7 +26,7 @@ Problems for Week 1 (02/10/2024): 11 left 4 done
 <strike>125. Valid Palindrome</strike>
 <strike>226. Invert Binary Tree</strike>
 <strike>242. Valid Anagram</strike>
-704. Binary Search
+<strike>704. Binary Search</strike>
 733. Flood Fill
 235. Lowest Common Ancestor of a Binary Search Tree
 110. Balanced Binary Tree

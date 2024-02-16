@@ -23,6 +23,3 @@ public class IsUnique {
         System.out.println(this.answer("abracadabra")); 
     }
 }
-
-
- 

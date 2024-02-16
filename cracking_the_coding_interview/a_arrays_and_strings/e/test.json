@@ -1,6 +1,6 @@
 [
     {
-        "index": 2,
+        "index": 1,
         "input": {
             "first": "test",
             "second": "test"
@@ -8,7 +8,7 @@
         "output": true
     },
     {
-        "index": 3,
+        "index": 2,
         "input": {
             "first": "test",
             "second": "best"
@@ -16,7 +16,7 @@
         "output": true
     },
     {
-        "index": 4,
+        "index": 3,
         "input": {
             "first": "test",
             "second": "tests"
@@ -24,7 +24,7 @@
         "output": true
     },
     {
-        "index": 5,
+        "index": 4,
         "input": {
             "first": "test",
             "second": "atest"
@@ -32,7 +32,7 @@
         "output": true
     },
     {
-        "index": 6,
+        "index": 5,
         "input": {
             "first": "testing",
             "second": "testin"
@@ -40,7 +40,7 @@
         "output": true
     },
     {
-        "index": 7,
+        "index": 6,
         "input": {
             "first": "testing",
             "second": "esting"
@@ -48,7 +48,7 @@
         "output": true
     },
     {
-        "index": 8,
+        "index": 7,
         "input": {
             "first": "test",
             "second": "bests"
@@ -56,7 +56,7 @@
         "output": false
     },
     {
-        "index": 9,
+        "index": 8,
         "input": {
             "first": "test",
             "second": "tosts"
@@ -64,7 +64,7 @@
         "output": false
     },
     {
-        "index": 10,
+        "index": 9,
         "input": {
             "first": "",
             "second": ""
@@ -72,10 +72,210 @@
         "output": true
     },
     {
-        "index": 11,
+        "index": 10,
         "input": {
             "first": "",
             "second": "a"
+        },
+        "output": true
+    },
+    {
+        "index": 11,
+        "input": {
+            "first": "baseb",
+            "second": "basec"
+        },
+        "output": true
+    },
+    {
+        "index": 12,
+        "input": {
+            "first": "itemc",
+            "second": "itemsc"
+        },
+        "output": true
+    },
+    {
+        "index": 13,
+        "input": {
+            "first": "thisd",
+            "second": "thusi"
+        },
+        "output": false
+    },
+    {
+        "index": 14,
+        "input": {
+            "first": "samee",
+            "second": "samee"
+        },
+        "output": true
+    },
+    {
+        "index": 15,
+        "input": {
+            "first": "basef",
+            "second": "baseg"
+        },
+        "output": true
+    },
+    {
+        "index": 16,
+        "input": {
+            "first": "itemg",
+            "second": "itemsg"
+        },
+        "output": true
+    },
+    {
+        "index": 17,
+        "input": {
+            "first": "thish",
+            "second": "thusm"
+        },
+        "output": false
+    },
+    {
+        "index": 18,
+        "input": {
+            "first": "samei",
+            "second": "samei"
+        },
+        "output": true
+    },
+    {
+        "index": 19,
+        "input": {
+            "first": "basej",
+            "second": "basek"
+        },
+        "output": true
+    },
+    {
+        "index": 20,
+        "input": {
+            "first": "itemk",
+            "second": "itemsk"
+        },
+        "output": true
+    },
+    {
+        "index": 21,
+        "input": {
+            "first": "thisl",
+            "second": "thusq"
+        },
+        "output": false
+    },
+    {
+        "index": 22,
+        "input": {
+            "first": "samem",
+            "second": "samem"
+        },
+        "output": true
+    },
+    {
+        "index": 23,
+        "input": {
+            "first": "basen",
+            "second": "baseo"
+        },
+        "output": true
+    },
+    {
+        "index": 24,
+        "input": {
+            "first": "itemo",
+            "second": "itemso"
+        },
+        "output": true
+    },
+    {
+        "index": 25,
+        "input": {
+            "first": "thisp",
+            "second": "thusu"
+        },
+        "output": false
+    },
+    {
+        "index": 26,
+        "input": {
+            "first": "sameq",
+            "second": "sameq"
+        },
+        "output": true
+    },
+    {
+        "index": 27,
+        "input": {
+            "first": "baser",
+            "second": "bases"
+        },
+        "output": true
+    },
+    {
+        "index": 28,
+        "input": {
+            "first": "itemr",
+            "second": "itemsr"
+        },
+        "output": true
+    },
+    {
+        "index": 29,
+        "input": {
+            "first": "thist",
+            "second": "thusy"
+        },
+        "output": false
+    },
+    {
+        "index": 30,
+        "input": {
+            "first": "samer",
+            "second": "samer"
+        },
+        "output": true
+    },
+    {
+        "index": 31,
+        "input": {
+            "first": "baset",
+            "second": "baseu"
+        },
+        "output": true
+    },
+    {
+        "index": 32,
+        "input": {
+            "first": "items",
+            "second": "itemss"
+        },
+        "output": true
+    },
+    {
+        "index": 33,
+        "input": {
+            "first": "thisu",
+            "second": "thusa"
+        },
+        "output": false
+    },
+    {
+        "index": 34,
+        "input": {
+            "first": "sames",
+            "second": "sames"
+        },
+        "output": true
+    },
+    {
+        "index": 35,
+        "input": {
+            "first": "baset",
+            "second": "basev"
         },
         "output": true
     }

@@ -4,6 +4,36 @@ import json
 
 
 def one_away(first, second):
+    shorter_string = first if len(first) <= len(second) else second
+    longer_string = second if len(first) <= len(second) else first
+    if len(longer_string) - len(shorter_string) > 1:
+        return False
+    index_shorter = 0
+    index_longer = 0
+    difference_found = False
+
+    while index_shorter < len(shorter_string):
+        if shorter_string[index_shorter] != longer_string[index_longer]:
+            if difference_found:
+                return False
+            else:
+                difference_found = True
+            if len(shorter_string) != len(longer_string):
+                index_longer += 1
+            else:
+                index_longer += 1
+                index_shorter += 1
+        else:
+            index_longer += 1
+            index_shorter += 1
+
+    return True
+
+"""
+FAIL:
+This solution does not account for the order of the characters that need to match as well
+
+def one_away(first, second):
     tracker = {}
     if abs(len(first) - len(second)) > 1:
         return False
@@ -25,7 +55,7 @@ def one_away(first, second):
         return True
     else:
         return False
-
+"""
 
 if __name__ == "__main__":
     print(one_away("asdfasdb", "asdfasdac"))
