@@ -8,6 +8,7 @@ Problems covered
 26. Remove Duplicates from Sorted Array
 27. Remove Element
 28. Find the Index of the First Occurence in a String
+70. Climbing Stairs
 110. Balanced Binary Tree
 121. Best Time to Buy and Sell Stock
 125. Valid Palindrome
@@ -18,6 +19,7 @@ Problems covered
 232. Implement Queue using Stacks
 235. Lowest Common Ancestor of a Binary Search Tree
 242. Valid Anagram
+278. First Bad Version
 349. Intersection of Two Arrays
 704. Binary Search
 724. Find Pivot Index
@@ -40,9 +42,9 @@ Problems for Week 1 (02/10/2024): 2 left 11 done<br />
 
 
 Problems for Week 2 (02/17/2024)<br />
-278. First Bad Version<br />
+<strike>278. First Bad Version</strike><br />
 383. Ransom Note<br />
-70. Climbing Stairs<br />
+<strike>70. Climbing Stairs</strike><br />
 409. Longest Palindrome<br />
 206. Reverse Linked List<br />
 169. Majority Element<br />
