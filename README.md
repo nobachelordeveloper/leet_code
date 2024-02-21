@@ -21,6 +21,8 @@ Problems covered
 242. Valid Anagram
 278. First Bad Version
 349. Intersection of Two Arrays
+383. Ransom Note
+409. Longest Palindrome
 704. Binary Search
 724. Find Pivot Index
 733. Flood Fill
@@ -43,9 +45,9 @@ Problems for Week 1 (02/10/2024): 2 left 11 done<br />
 
 Problems for Week 2 (02/17/2024)<br />
 <strike>278. First Bad Version</strike><br />
-383. Ransom Note<br />
+<strike>383. Ransom Note</strike><br />
 <strike>70. Climbing Stairs</strike><br />
-409. Longest Palindrome<br />
+<strike>409. Longest Palindrome</strike><br />
 206. Reverse Linked List<br />
 169. Majority Element<br />
 67. Add Binary<br />
@@ -69,12 +71,12 @@ Array<br />
 15. 3Sum (Medium)<br />
 11. Container With Most Water (Medium)<br />
 
-Binary<br />
-371. Sum of Two Integers (Medium)<br />
-191. Number of 1 Bits (Easy)<br />
-338. Counting Bits (Easy)<br />
-268. Missing Number (Easy)<br />
-190. Reverse Bits (Easy)<br />
+Binary\
+371. Sum of Two Integers (Medium)\
+191. Number of 1 Bits (Easy)\
+338. Counting Bits (Easy)\
+268. Missing Number (Easy)\
+190. Reverse Bits (Easy)\
 
 Dynamic Programming<br />
 70. Climbing Stairs (Easy)<br />
