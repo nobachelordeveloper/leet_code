@@ -8,7 +8,7 @@ var MyQueueJS = function () {
  */
 MyQueue.prototype.push = function (x) {
   this.stack.push(x);
-};
+}; 
 
 /**
  * @return {number}

@@ -1,6 +1,6 @@
 package balanced_binary_tree;
 
-public class balanced_binary_tree {
+public class Balanced_binary_tree {
     public class TreeNode {
         int val;
         TreeNode left;

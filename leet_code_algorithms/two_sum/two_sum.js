@@ -34,12 +34,11 @@ var twoSum = function (nums, target) {
   return [];
 };
 
-
 const camelLetters = (string) => {
   const newStringArray = string.split().map((letter, i) => {
-    if(i % 2 === 0 ) {
-      letter.upperCase() 
+    if (i % 2 === 0) {
+      letter.upperCase();
     }
   });
   return newStringArray.join();
-}
+};

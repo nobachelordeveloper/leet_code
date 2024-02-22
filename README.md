@@ -1,7 +1,6 @@
 # leet_code
 
-Problems covered
-
+Problems covered (Algorithms)
 1. Two Sum
 20. Valid Parentheses
 21. Merge Two Sorted Lists
@@ -14,6 +13,7 @@ Problems covered
 125. Valid Palindrome
 141. Linked List Cycle
 151. Reverse Words in a String
+206. Reverse Linked List
 217. Contains Duplicate
 226. Invert Binary Tree
 232. Implement Queue using Stacks
@@ -26,6 +26,9 @@ Problems covered
 704. Binary Search
 724. Find Pivot Index
 733. Flood Fill
+
+Problems covered (SQL)
+1757. Recyclable and Low Fat Products
 
 Problems for Week 1 (02/10/2024): 2 left 11 done<br />
 <strike>1. Two Sum</strike><br />
@@ -42,13 +45,12 @@ Problems for Week 1 (02/10/2024): 2 left 11 done<br />
 <strike>141. Linked List Cycle</strike><br />
 <strike>232. Implement Queue using Stacks</strike><br />
 
-
 Problems for Week 2 (02/17/2024)<br />
 <strike>278. First Bad Version</strike><br />
 <strike>383. Ransom Note</strike><br />
 <strike>70. Climbing Stairs</strike><br />
 <strike>409. Longest Palindrome</strike><br />
-206. Reverse Linked List<br />
+<strike>206. Reverse Linked List</strike><br />
 169. Majority Element<br />
 67. Add Binary<br />
 543. Diameter of Binary Tree<br />
@@ -57,8 +59,37 @@ Problems for Week 2 (02/17/2024)<br />
 53. Maximum Subarray<br />
 
 
-
 Problems to Cover<br />
+
+SQL\
+I. Select
+<strike>1757. Recyclable and Low Fat Products (Easy)</strike>\
+584. Find Customer Referee (Easy)\
+595. Big Countries (Easy)\
+1148. Article Views I (Easy)\
+1683. Invalid Tweets (Easy)\
+
+II. Basic Joins\
+1378. Replace Employee ID With The Unique Identifier (Easy)\
+1068. Product Sales Analysis I (Easy)\
+1581. Customer Who Visited but Did Not Make Any Transactions (Easy)\
+197. Rising Temperature (Easy)\
+1661. Average Time of Process per Machine (Easy)\
+577. Employee Bonus (Easy)\
+1280. Students and Examinations (Easy)\
+570. Managers with at Least 5 Direct Reports (Medium)\ 
+1934. Confirmation Rate (Medium)\
+
+III. Basic Aggregate Functions\
+620. Not Boring Movies (Easy)\
+1251. Average Selling Price (Easy)\
+1075. Project Employees I (Easy)\
+1633. Percentage of Users Attended a Contest (Easy)\
+1211. Queries Quality and Percentage (Easy)\
+1193. Monthly Transactions I (Medium)\
+1174. Immediate Food Delivery II (Medium)\
+550. Game Play Analysis IV (Medium)\
+
 Array<br />
 <strike>1. Two Sum (Easy)</strike><br />
 <strike>121. Best Time to Buy and Sell Stock (Easy)</strike><br />
