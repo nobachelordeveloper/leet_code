@@ -32,6 +32,8 @@ INSERT INTO
 VALUES
     (4, 'N', 'N');
 
+-- ANSWER
+
 SELECT
     product_id
 FROM
