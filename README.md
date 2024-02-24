@@ -7,12 +7,14 @@ Problems covered (Algorithms)
 26. Remove Duplicates from Sorted Array
 27. Remove Element
 28. Find the Index of the First Occurence in a String
+67. Add Binary
 70. Climbing Stairs
 110. Balanced Binary Tree
 121. Best Time to Buy and Sell Stock
 125. Valid Palindrome
 141. Linked List Cycle
 151. Reverse Words in a String
+169. Majority Element
 206. Reverse Linked List
 217. Contains Duplicate
 226. Invert Binary Tree
@@ -29,6 +31,8 @@ Problems covered (Algorithms)
 
 Problems covered (SQL)
 1757. Recyclable and Low Fat Products
+584. Find Customer Referee
+595. Big Countries
 
 Problems for Week 1 (02/10/2024): 2 left 11 done<br />
 <strike>1. Two Sum</strike><br />
@@ -51,8 +55,8 @@ Problems for Week 2 (02/17/2024)<br />
 <strike>70. Climbing Stairs</strike><br />
 <strike>409. Longest Palindrome</strike><br />
 <strike>206. Reverse Linked List</strike><br />
-169. Majority Element<br />
-67. Add Binary<br />
+<strike>169. Majority Element</strike><br />
+<strike>67. Add Binary</strike><br />
 543. Diameter of Binary Tree<br />
 876. Middle of the Linked List<br />
 <strike>217. Contains Duplicate</strike><br />
@@ -61,11 +65,11 @@ Problems for Week 2 (02/17/2024)<br />
 
 Problems to Cover<br />
 
-SQL\
+SQL and Pandas\
 I. Select
 <strike>1757. Recyclable and Low Fat Products (Easy)</strike>\
-584. Find Customer Referee (Easy)\
-595. Big Countries (Easy)\
+<strike>584. Find Customer Referee (Easy)</strike>\
+<strike>595. Big Countries (Easy)</strike>\
 1148. Article Views I (Easy)\
 1683. Invalid Tweets (Easy)\
 
