@@ -25,6 +25,7 @@ Problems covered (Algorithms)
 349. Intersection of Two Arrays
 383. Ransom Note
 409. Longest Palindrome
+543. Diameter of Binary Tree
 704. Binary Search
 724. Find Pivot Index
 733. Flood Fill
@@ -57,7 +58,7 @@ Problems for Week 2 (02/17/2024)<br />
 <strike>206. Reverse Linked List</strike><br />
 <strike>169. Majority Element</strike><br />
 <strike>67. Add Binary</strike><br />
-543. Diameter of Binary Tree<br />
+<strike>543. Diameter of Binary Tree</strike><br />
 876. Middle of the Linked List<br />
 <strike>217. Contains Duplicate</strike><br />
 53. Maximum Subarray<br />
