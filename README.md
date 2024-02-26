@@ -7,6 +7,7 @@ Problems covered (Algorithms)
 26. Remove Duplicates from Sorted Array
 27. Remove Element
 28. Find the Index of the First Occurence in a String
+53. Maximum Subarray
 67. Add Binary
 70. Climbing Stairs
 110. Balanced Binary Tree
@@ -29,6 +30,7 @@ Problems covered (Algorithms)
 704. Binary Search
 724. Find Pivot Index
 733. Flood Fill
+876. Middle of the Linked List
 
 Problems covered (SQL)
 1757. Recyclable and Low Fat Products
@@ -59,9 +61,9 @@ Problems for Week 2 (02/17/2024)<br />
 <strike>169. Majority Element</strike><br />
 <strike>67. Add Binary</strike><br />
 <strike>543. Diameter of Binary Tree</strike><br />
-876. Middle of the Linked List<br />
+<strike>876. Middle of the Linked List</strike><br />
 <strike>217. Contains Duplicate</strike><br />
-53. Maximum Subarray<br />
+<strike>53. Maximum Subarray</strike><br />
 
 
 Problems to Cover<br />
