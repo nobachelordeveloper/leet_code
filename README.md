@@ -1,8 +1,8 @@
 # leet_code
 
 Problems covered (Algorithms)
-1. Two Sum
-20. Valid Parentheses
+1. Two Sum (x2)
+20. Valid Parentheses (x2)
 21. Merge Two Sorted Lists
 26. Remove Duplicates from Sorted Array
 27. Remove Element
@@ -37,7 +37,7 @@ Problems covered (SQL)
 584. Find Customer Referee
 595. Big Countries
 
-Problems for Week 1 (02/10/2024): 2 left 11 done<br />
+Problems for Week 1 (02/10/2024)<br />
 <strike>1. Two Sum</strike><br />
 <strike>20. Valid Parentheses</strike><br />
 <strike>21. Merge Two Sorted Lists</strike><br />
@@ -65,6 +65,25 @@ Problems for Week 2 (02/17/2024)<br />
 <strike>217. Contains Duplicate</strike><br />
 <strike>53. Maximum Subarray</strike><br />
 
+Problems for Week 3<br />
+57. Insert Interval<br />
+542. 01 Matrix<br />
+973. K Closest Points to Origin<br />
+3. Longest Substring Without Repeating Characters<br />
+15. 3Sum<br />
+102. Binary Tree Level Order Traversal<br />
+133. Clone Graph<br />
+150. Evaluate Reverse Polish Notation<br />
+
+Problems for Week 4<br />
+207. Course Schedule<br />
+208. Implement Trie (Prefix Tree)<br />
+322. Coin Change<br />
+238. Product of Array Except Self<br />
+155. Min Stack<br />
+98. Validate Binary Search Tree<br />
+200. Number of Islands<br />
+994. Rotting Oranges<br />
 
 Problems to Cover<br />
 
@@ -73,8 +92,8 @@ I. Select
 <strike>1757. Recyclable and Low Fat Products (Easy)</strike>\
 <strike>584. Find Customer Referee (Easy)</strike>\
 <strike>595. Big Countries (Easy)</strike>\
-1148. Article Views I (Easy)\
-1683. Invalid Tweets (Easy)\
+<strike>1148. Article Views I (Easy)</strike>\
+<strike>1683. Invalid Tweets (Easy)</strike>\
 
 II. Basic Joins\
 1378. Replace Employee ID With The Unique Identifier (Easy)\
@@ -96,6 +115,25 @@ III. Basic Aggregate Functions\
 1193. Monthly Transactions I (Medium)\
 1174. Immediate Food Delivery II (Medium)\
 550. Game Play Analysis IV (Medium)\
+
+IV. Basic Aggregate Functions\
+620. Not Boring Movies (Easy)\
+1251. Average Selling Price (Easy)\
+1075. Project Employees I (Easy)\
+1633. Percentage of Users Attended a Contest (Easy)\
+1211. Queries Quality and Percentage (Easy)\
+1193. Monthly Transactions I (Medium)\
+1174. Immediate Food Delivery II (Medium)\
+550. Game Play Analysis IV (Medium)\
+
+V. Sorting and Grouping\
+2356. Number of Unique Subjects Taught by Each Teacher (Easy)\
+1141. User Activity for the Past 30 Days I (Easy)\
+1070. Product Sales Analysis III (Medium)\
+596. Classes More than 5 Students (Easy)\
+1729. Find Followers Count (Easy)\
+619. Biggest Single Number (Easy)\
+1045. Customers Who Bought All Products (Medium)\
 
 Array<br />
 <strike>1. Two Sum (Easy)</strike><br />
