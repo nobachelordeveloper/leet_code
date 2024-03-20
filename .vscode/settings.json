@@ -2,5 +2,6 @@
   "java.project.referencedLibraries": [
     "lib/**/*.jar",
     "0_java_sandbox/json-simple-1.1.1.jar"
-  ]
+  ],
+  "dotnet.defaultSolution": "0_csharp_sandbox.sln"
 }

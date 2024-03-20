@@ -14,7 +14,7 @@ public class Valid_parentheses {
         for (int i = 0; i < s.length(); i++) {
             char letter = s.charAt(i);
             if (parentheses.containsKey(letter)) {
-                char topElement = stack.empty() ? '#' : stack.pop();
+                char topElement = stack.size() == 0 ? '#' : stack.pop();
                 if (topElement != parentheses.get(letter)) {
                     return false;
                 }
